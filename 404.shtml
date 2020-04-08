@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title> Captain's Pizza Error 404</title>
+    <link href="404.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+
+    <img src="images/background/CaptainsPizzaFSBG.png" alt="Captain's Pizza Background" id="BG">
+		<img src="images/background/CaptainsPizzaFSBG.png" alt="Captain's Pizza Full Screen Background" id="FSBG">
+
+    <div class="main">
+      <h1>Error 404 - Page Not Found</h1>
+
+      <p>
+        The requested object or URL was not found on this server. <br>
+
+        The link you followed is either outdated, inaccurate, or the server has been
+        instructed to restrict your access. <br>
+
+        If you belive this is an error, please contact the page's administrator: <br><br>
+        <a href=mailto:cameronhildebrandt1@gmail.com> cameronhildebrandt1@gmail.com </a>
+      </p>
+    </div>
+  </body>
+</html>
